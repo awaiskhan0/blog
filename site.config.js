@@ -6,26 +6,26 @@ const CONFIG = {
     role: "Data Engineer",
     bio: "I do data engineering stuff.",
     email: "awaisk@hotmail.co.uk",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    linkedin: "Awais Khan",
+    github: "awaiskhan0",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `blog`,
+      href: "https://github.com/awaiskhan0/blog",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
-    theme: "light", // ['light', 'dark', 'auto']
+    title: "Blog",
+    description: "Awais Khan - Blog",
+    theme: ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
   link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "morethanmin/morethan-log",
+      repo: "awaiskhan0/blog",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
